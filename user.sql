@@ -38,7 +38,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`username`, `password`, `email`) VALUES
-('Min Myat Thura', '106399267', 'minmyatthura@swinburne.com');
+('Min Myat Thura', '106399267', 'i_love_web_development@swinburne.com');
 
 --
 -- Indexes for dumped tables
